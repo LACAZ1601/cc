@@ -1,0 +1,11 @@
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO14\EXERCICIO14\bin\Debug\EXERCICIO14.exe.config
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO14\EXERCICIO14\bin\Debug\EXERCICIO14.exe
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO14\EXERCICIO14\bin\Debug\EXERCICIO14.pdb
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.csproj.AssemblyReference.cache
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.Properties.Resources.resources
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.csproj.GenerateResource.cache
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.csproj.CoreCompileInputs.cache
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.exe
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.pdb
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO14\EXERCICIO14\obj\Debug\EXERCICIO14.Form1.resources
