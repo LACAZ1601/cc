@@ -1,0 +1,11 @@
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO07\EXERCICIO07\obj\Debug\EXERCICIO07.csproj.AssemblyReference.cache
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO07\EXERCICIO07\obj\Debug\EXERCICIO07.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO07\EXERCICIO07\obj\Debug\EXERCICIO07.Form1.resources
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO07\EXERCICIO07\obj\Debug\EXERCICIO07.Properties.Resources.resources
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO07\EXERCICIO07\obj\Debug\EXERCICIO07.csproj.GenerateResource.cache
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO07\EXERCICIO07\obj\Debug\EXERCICIO07.csproj.CoreCompileInputs.cache
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO07\EXERCICIO07\bin\Debug\EXERCICIO07.exe.config
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO07\EXERCICIO07\bin\Debug\EXERCICIO07.exe
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO07\EXERCICIO07\bin\Debug\EXERCICIO07.pdb
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO07\EXERCICIO07\obj\Debug\EXERCICIO07.exe
+C:\Users\tiago.lbbettoni\source\repos\EXERCICIO07\EXERCICIO07\obj\Debug\EXERCICIO07.pdb
